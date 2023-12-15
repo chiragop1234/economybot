@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord.js v11 bot",
+  "main": "your_bot_file.js", // replace with your actual entry point file
+  "scripts": {
+    "start": "node index.js" // replace with your actual entry point file
+  },
+  "dependencies": {
+    "discord.js": "11.6.4"
+  }
+}
